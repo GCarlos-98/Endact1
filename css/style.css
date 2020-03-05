@@ -1,0 +1,172 @@
+#Main-container{
+	height:635px;
+	width:100%;
+	background-color:white;
+}
+.Header{
+	width:100%;
+	height:55px;
+	background-color:powderBlue;
+	float:left;
+
+}
+.whitespace{
+	width:100%;
+	height:50px;
+	background-color:white;
+}
+.BodbodUp{
+	width:100%;
+	height:50px;
+	background-color:orange;
+}
+.BodbodDown{
+	width:100%;
+	height:800px;
+	background-color:Blue;
+}
+
+.HOME{
+	font-family:Arial;
+	color: white;
+	float:left;
+	padding-left:10px;
+}
+.box1{
+	height:55px;
+	width:15%;
+	padding-left:1px;
+	background-color:gold;
+	float:left;
+	margin-left:100px;
+}
+.box2{
+	height:55px;
+	width:15%;
+	background-color:gold;
+	padding-left:1px;
+	float:left;
+}
+.box3{
+	height:55px;
+	width:15%;
+	padding-left:1px;
+	background-color:gold;
+	float:left;
+}
+
+}
+.box2:hover{
+	border-left:5px;
+	background-color:red;
+}
+.HOME:hover{
+	color:black;
+}
+.box3:hover{
+	border-left:5px;
+	color:white;
+}
+.ge{
+	margin-top:10px;
+	margin-right:35px;
+	float:right;
+}
+.e{
+	height:45px;
+	width:100%;
+}
+.submit{
+	color:white;
+	background-color:gray;
+	border:none;
+	padding-left:2px;
+	padding-right:2px;
+}
+.owo{
+	width:auto;
+	height:auto;
+	background-color:black;
+	margin-top:75px;
+}
+.d{
+	width:32%;
+	height:50px;
+	border:5px solid white;
+	background-color:black;
+	text-align:center;
+}
+.Title{
+	Color:white;
+	font-family:arial;
+	font-size:20px;
+}
+.o{
+	width:100%;
+	text-align:center;
+	border:1px solid black;
+	background-color:white
+}
+.Bl{
+	font-family:Arial;
+	color:gray;
+}
+.anny{
+	font-family:Arial;
+	color:gray;
+}
+
+}
+.Bar2{
+	background-color:black;
+}
+.tab_in{
+	text-align:center;
+	width:80%;
+	height:300px;
+	background-color:black;
+}
+.tab{
+	background-color: white;
+	width:80%;
+	height:280px;
+}
+.tab_cont1{
+	color:white;
+	font-family:Arial;
+	font-size:30px;
+	background-color:gray;
+}
+.tab_cont2{
+	color:black;
+	font-family:Arial;
+	font-size:30px;
+	border-left:5px outset black;
+	background-color:white;
+}
+.bottom{
+	width:100%;
+	height:50px;
+	background-color:white;
+	text-align:center;
+}
+.confirm1{
+	background-color: #black;
+	border:none;
+	color:grey;
+	font-family:Arial;
+	font-size:30px;
+}
+.confirm1:hover{
+	background-color:grey;
+	color: black;
+	border-left:2px ;
+}
+.del{
+	color:powderBlue;
+	font-family:arial;
+}
+.ad{
+	font-family:Arial;
+	color:#black;
+}
